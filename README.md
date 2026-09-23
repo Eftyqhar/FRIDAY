@@ -155,6 +155,5 @@ friday/
 ---
 
 ## 🛡️ Privacy & Safety
-- **Zero Profile Leaks**: `.gitignore` excludes `.brave_profile/`, `.env`, and session locks so personal credentials and cookies are never tracked in Git.
 - **Local Auditing**: Viewport snapshots for each step are stored locally in `screenshots/` for full visual verification.
 - **Step Caps**: Tasks default to a maximum of 25 steps to prevent runaway execution.
